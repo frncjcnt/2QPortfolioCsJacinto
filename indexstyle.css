@@ -1,0 +1,24 @@
+body {
+    margin: 20px 5px;
+    text-align: center;
+    font-family: "Trebuchet MS", sans-serif;
+    color: #f5ecd5;
+    background-color: #222b4a;
+}
+h2{
+    text-align:left;
+}
+ol{
+    text-align: left;
+}
+a {
+      display: block;
+      margin: 10px auto;
+      color: #f5ecd5;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+      color: #f8d57d;
+    }
